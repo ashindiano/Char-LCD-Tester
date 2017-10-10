@@ -1,0 +1,17 @@
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD_Tester_v1._0.Form1.resources
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v1.0.csproj.GenerateResource.Cache
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\bin\Debug\LCD Tester v2.0.exe.config
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\bin\Debug\LCD Tester v2.0.exe.manifest
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\bin\Debug\LCD Tester v2.0.application
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\bin\Debug\LCD Tester v2.0.exe
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\bin\Debug\LCD Tester v2.0.pdb
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD_Tester_v2._0.Properties.Resources.resources
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v2.0.TrustInfo.xml
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v2.0.exe.manifest
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v2.0.application
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v2.0.exe
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v1.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v2.0.pdb
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v2.0\LCD Tester v1.0\bin\Debug\LCD Tester v2.0.exe.config
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v2.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v2.0.exe
+C:\Users\Tsubasa\Desktop\lcd tester\C# .NET Application LCD Tester v1.0\LCD Tester v2.0\LCD Tester v1.0\obj\x86\Debug\LCD Tester v2.0.pdb
